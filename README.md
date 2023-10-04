@@ -1,4 +1,4 @@
-# terraform-vpc-aws
+# terraform-vpc-peering-aws
 Use terraform to create an AWS VPC peering
 # Source:
 https://github.com/nicksantamaria/example-terraform-aws-vpc-peering
